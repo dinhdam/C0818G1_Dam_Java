@@ -9,7 +9,7 @@ public class Bai1 {
         int sinhHoc = sc.nextInt();
         int vatLy =sc.nextInt();
         double tb = (hoaHoc+sinhHoc+vatLy)/3;
-        System.out.println(tb);
+        System.out.println("tb="+tb);
 
     }
 }

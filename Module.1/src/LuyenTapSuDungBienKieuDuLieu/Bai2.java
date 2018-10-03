@@ -7,7 +7,7 @@ public class Bai2 {
         Scanner sc = new Scanner(System.in);
         double c = sc.nextDouble();
         double f = (c/5)*9+32;
-        System.out.println(f);
+        System.out.println("f ="+f);
     }
 
 }
