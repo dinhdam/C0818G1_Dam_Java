@@ -8,11 +8,11 @@ public class KhaiBaoSuDungBien {
         boolean b = true;
         char c = 'a';
         String s = "Hà Nội";
-        System.out.println(i);
-        System.out.println(f);
-        System.out.println(d);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(s);
+        System.out.println("i="+i);
+        System.out.println("f="+f);
+        System.out.println("d="+d);
+        System.out.println("b="+b);
+        System.out.println("c="+c);
+        System.out.println("s="+s);
     }
 }
